@@ -1,0 +1,6 @@
+Problem Satement:
+Farmers face problem in over watering the crop if they miss switching off the motor, which may lead to crop damage and water wastage.
+Solution:
+->The Solution is Smart watering System. In this System, the crop is watered according to its requirement, without the farmer. 
+->Soil Moisture is detected from the crop. Based on the Moisture percentage, the motor will turn on and off automatically. And this can be visualized by farmer in a app (Blynk IoT). 
+->The required moisture for that respective crop acts as the threshold_moisture_value to turn on or turn off the motor. 
